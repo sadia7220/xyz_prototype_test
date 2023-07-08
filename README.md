@@ -7,11 +7,11 @@
 
 - Clone the project from git repo.
 ~~~shell
-git clone https://github.com/sadia7220/xyz_prototype.git
+git clone https://github.com/sadia7220/xyz_prototype_test.git
 ~~~
 - Go inside the project directory.
 ~~~shell
-cd xyz_prototype
+cd xyz_prototype_test
 ~~~
 - Switch to the master branch.
 ~~~shell
